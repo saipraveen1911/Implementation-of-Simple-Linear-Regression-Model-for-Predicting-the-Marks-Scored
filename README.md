@@ -76,6 +76,8 @@ print(f"\nPredicted marks for {hours} hours of study = {predicted_marks[0]:.2f}"
 
 ## Output:
 
+<img width="1657" height="682" alt="ML EXP-2 SS1" src="https://github.com/user-attachments/assets/b5c2d485-adf0-470f-ac72-ec5e1ac11540" />
+<img width="1695" height="531" alt="ML EXP - 2 SS-2" src="https://github.com/user-attachments/assets/f7b7971c-3654-41ec-bb9f-cd855f7d7050" />
 
 
 ## Result:
